@@ -68,7 +68,7 @@ Has the generated mesh lowered the skill barrier for tasks, making complex model
 | U15      | 7 | 4 | 7 | 6 | 5 | 7 | 8 |
 
 #### Background ####
-We have selected three representative professionals from the 15 users in the 3D industry to answer the following questions: 
+We have selected 3 representative professionals from the 15 users in the 3D industry to answer the following questions: 
 
 U1: Simulation Character Design Engineer, primarily responsible for simulating and character emotion modeling, requiring models with high-resolution details, animation-ready topology, and materials compatible with PBR workflows; 
 
