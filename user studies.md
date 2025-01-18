@@ -70,11 +70,11 @@ Has the generated mesh lowered the skill barrier for tasks, making complex model
 #### Background ####
 We have selected 3 representative professionals from the 15 users in the 3D industry to answer the following questions: 
 
-U1: Simulation Character Design Engineer, primarily responsible for simulating and character emotion modeling, requiring models with high-resolution details, animation-ready topology, and materials compatible with PBR workflows; 
+**U1**: Simulation Character Design Engineer, primarily responsible for simulating and character emotion modeling, requiring models with high-resolution details, animation-ready topology, and materials compatible with PBR workflows; 
 
-U6: Scene Virtual Reality Engineer, primarily in charge of segmenting scenes and creating 3D scenes designs for virtual reality projects or architectural visualizations. They require complex scenes, realistic materials, and efficient generation workflows.
+**U6**: Scene Virtual Reality Engineer, primarily in charge of segmenting scenes and creating 3D scenes designs for virtual reality projects or architectural visualizations. They require complex scenes, realistic materials, and efficient generation workflows.
 
-U15: Video Generation and Special Effects Engineer, who specializes in the video industry, focuses on creating 3D models for visual effects, which often need to integrate with simulations and dynamic environments. They require highly detailed and dynamic meshes compatible with special effects workflows.
+**U15**: Video Generation and Special Effects Engineer, who specializes in the video industry, focuses on creating 3D models for visual effects, which often need to integrate with simulations and dynamic environments. They require highly detailed and dynamic meshes compatible with special effects workflows.
 
 #### Questions about subsequent improvements ####
 
