@@ -1,4 +1,4 @@
-# user studies
+# User Studies
 
 ### questionnaire
 
